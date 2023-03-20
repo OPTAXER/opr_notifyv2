@@ -1,4 +1,4 @@
-OPR Notify - esx notify redesigned by Optaxer!
+OPR Notify - esx notify redesigned v2 by Optaxer!
 
 Download & instalation
 
