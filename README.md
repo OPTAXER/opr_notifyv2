@@ -3,8 +3,11 @@ OPR Notify - esx notify redesigned by Optaxer!
 Download & instalation
 
 paste esx_notify in your resources folder
+
 restart the script/server
+
 Enjoy the script :)
+
 preview -
 
 https://streamable.com/xoftdn
